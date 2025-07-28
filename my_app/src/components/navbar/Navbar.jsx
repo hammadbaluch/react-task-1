@@ -6,7 +6,7 @@ export default function Navbar() {
     <>
       <nav className="navbar container">
         <div className="leftSide">
-            <div className="logo"><img src="/public/logo.png" alt="logo" /></div>
+            <div className="logo"><img src="/logo.png" alt="logo" /></div>
             <div className="logoText">Awesome App</div>
         </div>
         <div className="rightSide">
