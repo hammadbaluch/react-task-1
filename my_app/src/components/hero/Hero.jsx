@@ -22,7 +22,7 @@ export default function Hero() {
           <button className="hero-btn">Start exploring</button>
         </div>
         <div className="hero-img">
-          <img src="/src/assets/mobile.png" alt="Mobile Image" />
+          <img src="/public/mobile.png" alt="Mobile Image" />
         </div>
       </section>
     </>
