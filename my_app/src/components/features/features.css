@@ -1,0 +1,19 @@
+.features{
+    display: grid;
+    gap: 8rem;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: start;
+}
+
+
+@media (max-width: 1024px) {
+  .features {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .features {
+    grid-template-columns: 1fr;
+  }
+}

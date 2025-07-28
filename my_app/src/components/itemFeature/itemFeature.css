@@ -1,0 +1,25 @@
+.item-feature{
+    display: flex;
+    width: auto;
+}
+
+.para{
+    font-family: 'Poppins';
+}
+
+.icon{
+    font-size: 4rem;
+    margin-right: 2rem;
+    color: #FE502F;
+}
+
+.title{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.para{
+    font-size: 1.6rem;
+    color: grey;
+    margin-top: 2rem;
+}

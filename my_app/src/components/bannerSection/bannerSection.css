@@ -1,0 +1,11 @@
+.banner-section {
+  background: linear-gradient(to right, #ff512f, #dd2476);
+  color: white;
+  min-height: 95vh;
+}
+
+@media (max-width: 600px) {
+  .banner-section{
+    min-height: 70vh;
+  }
+}
